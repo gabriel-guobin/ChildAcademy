@@ -1,2 +1,2 @@
-# BP-ChildAcademy
+# ChildAcademy
 童行书院 BP
