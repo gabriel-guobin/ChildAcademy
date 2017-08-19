@@ -41,7 +41,7 @@
 * [最小故事角度 解构BP · Issue #9 · gabriel-guobin/ChildAcademy](https://github.com/gabriel-guobin/ChildAcademy/issues/9)
 * [BP项目梳理 · Issue #10 · gabriel-guobin/ChildAcademy](https://github.com/gabriel-guobin/ChildAcademy/issues/10)
 * [ch8 BP故事方向和一些碎片想法 · Issue #12 · gabriel-guobin/ChildAcademy](https://github.com/gabriel-guobin/ChildAcademy/issues/12)
-* [ch9 卡片写作 段落一 ：我带你去。。 · Issue #14 · gabriel-guobin/ChildAcademy](https://github.com/gabriel-guobin/ChildAcademy/issues/14)
+* [ch9 线上沟通 讨论文案框架可行性 · Issue #13 · gabriel-guobin/ChildAcademy](https://github.com/gabriel-guobin/ChildAcademy/issues/13)
 * [ch9 卡片写作 段落一 ：我带你去。。 · Issue #14 · gabriel-guobin/ChildAcademy](https://github.com/gabriel-guobin/ChildAcademy/issues/14)
 * [ch9 卡片写作 段落二 ：活动场景 · Issue #15 · gabriel-guobin/ChildAcademy](https://github.com/gabriel-guobin/ChildAcademy/issues/15)
 * [ch9 卡片写作 段落三 ：我是谁（通过老师引出童行书院） · Issue #16 · gabriel-guobin/ChildAcademy](https://github.com/gabriel-guobin/ChildAcademy/issues/16)
