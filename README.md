@@ -9,8 +9,8 @@
 * [认知写作学课程习作 童行书院_腾讯视频](https://v.qq.com/x/page/c05040k7pdg.html)
 
 
+* [认知写作学四期最佳结业作品展示之童行书院 – 成为作家](http://w.openmindclub.com/works/ChildAcademy/)
 
-* [感知比知识更重要？这个探索儿童公益的产品有点意思](https://mp.weixin.qq.com/s?src=11&timestamp=1505718593&ver=399&signature=2WIaDBxqOe50*FrFLPTyATF-IWBz4--*vjIkdXKdSB5luk7eXJMIdapzwjNR1f7kvFgYj8h08BihiMnsIgrjv59UXg-Xe2eODprCqPz7FIOIVXc3Zli3w9TfetN9uCoG&new=1)
 
 * [BP制作中的收获与总结 · Issue #26 · gabriel-guobin/ChildAcademy](https://github.com/gabriel-guobin/ChildAcademy/issues/26)
 
